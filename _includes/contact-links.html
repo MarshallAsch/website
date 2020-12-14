@@ -1,0 +1,115 @@
+<ul  style="list-style-type:none; columns: auto 2;">
+
+
+
+{%- for email in site.social-network-links.emails -%}
+  <li >
+    <a href="mailto:{{ email }}" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+
+      {{ email }}
+   </a>
+  </li>
+{%- endfor -%}
+
+{%- if site.social-network-links.facebook -%}
+  <li >
+    <a href="https://www.facebook.com/{{ site.social-network-links.facebook }}" title="Facebook">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+      </span>
+      @{{ site.social-network-links.facebook }}
+   </a>
+  </li>
+{%- endif -%}
+
+
+{%- if site.social-network-links.github -%}
+  <li >
+    <a href="https://github.com/{{ site.social-network-links.github }}" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+      @{{ site.social-network-links.github }}
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.gitlab -%}
+  <li >
+    <a href="https://gitlab.com/{{ site.social-network-links.gitlab }}" title="GitLab">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-gitlab fa-stack-1x fa-inverse"></i>
+      </span>
+      @{{ site.social-network-links.gitlab }}
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.twitter -%}
+  <li >
+    <a href="https://twitter.com/{{ site.social-network-links.twitter }}" title="Twitter">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+      @{{ site.social-network-links.twitter }}
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.reddit -%}
+  <li >
+    <a href="https://reddit.com/u/{{ site.social-network-links.reddit }}" title="Reddit">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-reddit fa-stack-1x fa-inverse"></i>
+      </span>
+      @{{ site.social-network-links.reddit }}
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.linkedin -%}
+  <li >
+    <a href="https://linkedin.com/in/{{ site.social-network-links.linkedin }}" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+      in/{{ site.social-network-links.linkedin }}
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.instagram -%}
+  <li >
+    <a href="https://www.instagram.com/{{ site.social-network-links.instagram }}" title="Instagram">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+      </span>
+      @{{ site.social-network-links.instagram }}
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.telephone -%}
+  <li >
+    <a href="tel:{{ site.social-network-links.telephone }}" title="Phone">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
+      </span>
+      {{ site.social-network-links.telephone }}
+   </a>
+  </li>
+{%- endif -%}
+
+</ul>
