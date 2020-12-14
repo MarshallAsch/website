@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{% assign projects =  site.categories.projects %}
+{% assign projects =  site.categories.projects | sort: "date" %}
 
 <div class="posts-list">
   {% for project in projects reversed %}

@@ -1,8 +1,7 @@
 ---
 layout: home
 title: My website
-subtitle: This is where I will tell my friends way too much about me
-paginate: 3
+subtitle: Where I can show off the cool things I do
 ---
 
 Hello there, welcome to my new and improved website!
