@@ -3,7 +3,7 @@ layout: post
 title: liquidctl
 subtitle: Cross-platform CLI and Python drivers for AIO liquid coolers and other devices
 #cover-img: /assets/img/liquidctl-logo.png
-gh-repo: jonasmalacofilho/liquidctl
+gh-repo: liquidctl/liquidctl
 gh-badge: [star, follow]
 image: /assets/img/liquidctl-logo.png
 tags: [python, cli, open source]
@@ -41,6 +41,4 @@ While working on this project there have been a ton of new leaning experiences (
 
 
 
-All in all, it has been a fantastic experience working on this project and I am super excited to be continuing with it beyond the initial hactoberfest.
-
-
+All in all, it has been a fantastic experience working on this project and I am super excited to be continuing with it beyond the initial Hactoberfest.
