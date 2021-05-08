@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Journy into wiring a house for internet
-subtitle: For when wifi isnt good enough
+title: A Journey into wiring a house for internet
+subtitle: For when wifi isn't good enough
 tags: [networking, building, hands-on]
 categories: blog
 comments: true
@@ -11,7 +11,7 @@ readtime: true
 About a year ago, around the beginning of 2020 before the apocalypse (AKA COVID-19) began, I starting messing around with servers and networking.
 I am a developer and I absolutely love setting up servers and just having them around to run various projects, and raspberry pi's were starting to
 not quite cut it anymore.
-But, that is not the point of this post, as I went through setting up my [raspbery pi's], [NUC], server, and NAS I ran out of ethernet ports on my Rogers router.
+But, that is not the point of this post, as I went through setting up my [raspberry pi's], [NUC], server, and NAS I ran out of ethernet ports on my Rogers router.
 This got me looking for a switch, and a new wireless access point, and a router.
 I went down quite the rabbit hole and got a bunch of stuff from [Ubiquitu] (which I find very nice) and got my network all
 set up the way I want it.
@@ -94,7 +94,7 @@ This is a larger thing to think about
 
 <!--links -->
 [PoE]: https://en.wikipedia.org/wiki/Power_over_Ethernet
-[raspbery pi's]: https://www.raspberrypi.org/)
+[raspberry pi's]: https://www.raspberrypi.org/)
 [NUC]: https://www.intel.ca/content/www/ca/en/products/boards-kits/nuc.html
 [Ubiquitu]: https://www.ui.com/
 
