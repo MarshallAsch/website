@@ -157,11 +157,53 @@ The final dimensions of the desk are around 6 1/2' by 3'.
 
 ### Step 7 - Oiling the surface
 
-To be done later. 
-This is scheduled to be done on the weekend of November 5th.
+Once the desk was fully sanded and cut to size it is time to finish the surface of the desk. 
+I chose [Odie's Oil](https://www.odiesoil.com/odies-oil-1/) to use as the finish.
+I love the look and feel of the walnut wood and I did not want to stain it or coat it with a polyurethane coating to give it a protective layer, but I did want it to have a protective fairly waterproof coating.
+I was originally looking at linseed oil to use for the finish, but I did not particularity want to have to apply a large number of coats of oil over several weeks while each coat cured before the desk can be used. 
+Because of this Odie's Oil was selected as the finish for this project, plus it is food safe and does not smell horrendous.
 
+In hindsight I probably should have sanded one of the cut off pieces from the desk and used that as a test piece to make sure that the oil actually looked good and soaked into the wood well, but I did not do that. 
+But, I did start with the bottom of the desk incase something went wrong. 
+
+The oil was applied using the manufacturers instructions, applied a thin layer with a applicator pad then let it soak for a while then rub off with a lint free cloth.
+Because of how long it took to apply, I essentially applied the oil and once I finished on one side I started rubbing it off from the side I started on.
+Then waited about 15 minutes and continued to wipe off any excess, then repeated that for about 2 hours until no more oil was coming out of the wood.  
+Maybe it could have used a little longer but it seemed to work.
+This is how the bottom turned out.
+
+![After Finishing the bottom of the desktop with oil](/assets/img/desk_oiled_bottom.jpg "After Finishing the bottom of desktop with Odie's Oil]"){:.picture width="80%"}
+
+The bottom of the desk came out pretty well, there were some blotchy parts and some parts that are darker than others. 
+That was largely attributed to the unevenness of sanding the bottom. 
+I did not put ass much effort into sanding the bottom of the desk, it was left fairly rough and was just sanded enough so that you will not get splinters if you touch the bottom.
+
+After lunch it was time to start working on the top side of the desk top. 
+I was satisfied with how the bottom turned out and was confident that any of the blotchiness was due to the roughness of the sanding and not user error; at least I really hoped thats what it was from. 
+The top surface went quite a bit faster, probably due to the wood being smoother, the oil applied quite a bit more evenly. 
+I was more carful with the top surface to make sure that I got oil everywhere including between some of the sanding lines that initially looked like they were missing oil.
+
+After several hours, and a single coat, I was extremely happy with how it turned out.
+Now all that is left is to get it home and wait for the legs to arrive and assemble the desk; easier said than done.
+
+![After Finishing the desktop with oil](/assets/img/desk_oiled.jpg "After Finishing the top of the desktop with Odie's Oil]"){:.picture width="80%"}
+
+Now in two weeks the coating will have fully cured and be a water safe barrier.
 
 ### Step 8 - Assembly
 
-To be done later.
-Waiting on the base of the desk to arrive (and for the desktop to be finished).
+The day after oiling the desk the 3 boxes from [Uplift Desk](https://www.upliftdesk.com/) arrived that contained the legs for the standing desk and the monitor arms. 
+The monitor arms were on back order and took an insanely long time to ship. 
+
+As part of the assembly stage you have to screw the base of the desk into the desktop.
+I don't want to screw directly into the wood, because I want to be able to take it apart when I move so it can be put back together again.
+It seems like using metal inserts will be a good way to let me do that without striping the wood when putting it together and taking it apart. 
+However, it turns out I should have ordered them _before_ I had everything else for the desk ready to go because now I had to wait for the inserts to arrive. 
+
+Then, to continue the trend with eventing else with the assembly portion of the desk, I did not have any of my tools or drill bits with me to be able to actually put the inserts into the desktop.
+Now begins another waiting game until I have time to get some drill bits to make the pilot holes. 
+I just have to sit here and suffer looking at all the parts of the desk layed out in the office, but not be able to use them yet. 
+This is very very very sad.  
+
+
+..... To Be Continued....
