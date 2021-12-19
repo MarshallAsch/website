@@ -186,7 +186,7 @@ I was more carful with the top surface to make sure that I got oil everywhere in
 After several hours, and a single coat, I was extremely happy with how it turned out.
 Now all that is left is to get it home and wait for the legs to arrive and assemble the desk; easier said than done.
 
-![After Finishing the desktop with oil](/assets/img/desk_oiled.jpg "After Finishing the top of the desktop with Odie's Oil]"){:.picture width="80%"}
+![After Finishing the desktop with oil](/assets/img/desk_oiled.jpg "After Finishing the top of the desktop with Odie's Oil."){:.picture width="80%"}
 
 Now in two weeks the coating will have fully cured and be a water safe barrier.
 
@@ -206,4 +206,21 @@ I just have to sit here and suffer looking at all the parts of the desk layed ou
 This is very very very sad.  
 
 
-..... To Be Continued....
+Now that all of the parts of the desk have arrived the assembly process went really well. 
+The threaded inserts worked perfectly. 
+
+![The assembled desk](/assets/img/desk_assembled_bottom.jpg "After assembling the desk while it was still upside down."){:.picture width="80%"}
+
+Once the assembly was done flipping it over and moving it into position was quite the challenge.
+The assembled desk weighs around 230lbs, and it needed to be held by the base and not the desk top!
+It would have been really really sad if everything got assembled perfectly fine and then the threaded inserts ripped out of the wood when trying to move it. 
+
+Once the desk was moved into position it was time to put the monitor arms together and attach them to the desk. 
+Since the height of the desk is adjustable, the monitor height when sitting is different than the height standing.
+Putting the monitors on arms is a good way to mak it easy to adjust their hight and positions. 
+
+### Step 9 - Finishing touches
+
+The last part, by far the easiest, is moving everything over from the old desk to the new one.
+
+![Final completed version of the desk](/assets/img/desk_completed.jpg "The final version of the desk after everything has been assembled and put together."){:.picture width="80%"}
