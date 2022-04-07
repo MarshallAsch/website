@@ -8,16 +8,12 @@ css:
   - "/assets/css/modal.css"
 ---
 
-You can find me on any of the platforms listed below if you would like to contact me.<br>
-I would be happy to hear from you :)
+So you are interested in chatting with me?
 
-### talk to me
-
-I check my email accounts most often. You can encrypt secure communications to me using my PGP public key.
+Perfect, I can be found all over the Internet and I would love to talk about any of my published papers, open source contributions, software development, or anything really.
 
 
 {% include contact-links.html %}
-
 
 <!-- Trigger/Open The Modal -->
 <button id="pgp_button" class="modal-button">
