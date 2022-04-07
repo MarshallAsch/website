@@ -4,34 +4,9 @@ layout: base
 
 {% include header.html type="post" %}
 
-
-{% assign posts = site.posts | where: "categories", page.categories[0] | sort: "date" %}
-{% assign len = posts | size | minus: '1' %}
-{% for i in (0..len) %}
-  {% if posts[i].id == page.id %}
-
-    {% comment %} Find the next post in the category {% endcomment %}
-    {% if i == len %}
-      {% assign next = nil   %}
-    {% else %}
-      {% assign index =  i | plus: '1'%}
-      {% assign next = posts[index]   %}
-    {% endif %}
-
-
-    {% comment %} Find the previous post in the category {% endcomment %}
-    {% if i == 0 %}
-      {% assign previous = nil   %}
-    {% else %}
-      {% assign index =  i | minus: '1'%}
-      {% assign previous = posts[index]   %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-
-<div class="container-md">
+<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   <div class="row">
-    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
 
       {% if page.gh-repo %}
         {% assign gh_split =  page.gh-repo | split:'/'  %}
@@ -56,20 +31,32 @@ layout: base
         </div>
       {% endif %}
 
+      {% if page.before-content %}
+        <div class="before-content">
+          {% for file in page.before-content %}
+            {% include {{ file }} %}
+          {% endfor %}
+        </div>
+      {% endif %}
+
       <article role="main" class="blog-post">
         {{ content }}
       </article>
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
-          Tags:
-          {% if site.link-tags %}
+          <span>Tags:</span>
           {% for tag in page.tags %}
             <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
           {% endfor %}
-          {% else %}
-            {{ page.tags | join: ", " }}
-          {% endif %}
+        </div>
+      {% endif %}
+
+      {% if page.after-content %}
+        <div class="after-content">
+          {% for file in page.after-content %}
+            {% include {{ file }} %}
+          {% endfor %}
         </div>
       {% endif %}
 
@@ -78,14 +65,14 @@ layout: base
       {% endif %}
 
       <ul class="pagination blog-pager">
-        {% if previous.url %}
+        {% if page.previous.url %}
         <li class="page-item previous">
-          <a class="page-link" href="{{ previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{previous.title}}">&larr; Previous Post</a>
+          <a class="page-link" href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title | strip_html | xml_escape}}">&larr; Previous Post</a>
         </li>
         {% endif %}
-        {% if next.url %}
+        {% if page.next.url %}
         <li class="page-item next">
-          <a class="page-link" href="{{ next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{next.title}}">Next Post &rarr;</a>
+          <a class="page-link" href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title | strip_html | xml_escape}}">Next Post &rarr;</a>
         </li>
         {% endif %}
       </ul>
