@@ -45,9 +45,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "maasch@rogers.com"
-  emails: ["masch@uoguelph.ca"] #, "maasch@rogers.com"]
-  facebook: marshall.asch
+  email: "hello@marshallasch.ca"
+  emails: ["hello@marshallasch.ca"] #, "maasch@rogers.com"]
+  #facebook: marshall.asch
   github: MarshallAsch
   gitlab: MarshallAsch
   twitter: marshallasch
@@ -66,7 +66,12 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-
+  dockerhub: marshallasch
+#  mastodon: instance.url/@username
+  ORCID: 0000-0003-3293-8530
+#  google-scholar: your google scholar
+#  discord: invite/invite_code or users/userid 
+#  kaggle: yourname
 # --- General options --- #
 
 # Select which social network share links to show in posts
@@ -85,6 +90,18 @@ link-tags: true
 # Excerpt Word Length - Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 50
 
+# Whether or not to show an excerpt for every blog post in the feed page
+feed_show_excerpt: true
+
+# Whether or not to show a list of tags below each post preview in the feed page
+feed_show_tags: false
+
+# Add a search button to the navbar
+post_search: true
+
+# The keywords to associate with your website, for SEO purposes
+keywords: "Marshall,Asch,Profile,developer"
+
 # --- Colours / background image --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
@@ -94,11 +111,13 @@ navbar-col: "#066648"
 navbar-text-col: "#ffffff"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
+#text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#D9682B"
 footer-col: "#08875F"
 footer-text-col: "#000000"
 footer-link-col: "#361807"
+#footer-hover-col: "#0085A1"
 
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
@@ -118,6 +137,9 @@ gtag: "UA-105152641-1"
 
 # Google Tag Manager ID
 #gtm: ""
+
+# Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
+#cloudflare_analytics: ""
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
