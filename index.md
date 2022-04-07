@@ -15,5 +15,5 @@ I sometimes use subdomains it to point at some services I run, so I don't have t
 
 I have decided I want to start writing some [blog posts](/blogs) as an exercise to improve my writing skills, and to force myself to actually make some notes about how I solved some problems that I'm bound to face again some day.
 
-If you are here because you are thinking about hiring me, then look you further you have found your answer. Yes you should hire me! 😊
-But actually, checkout [my projects](/projects), it's not a complete list, but it is a bunch of the ones that I have gotten around to writing about. 
+If you are here because you are thinking about hiring me, then look no further you have found your answer. Yes you should hire me! 😊
+But actually, check out [my projects](/projects), it's not a complete list, but it is a bunch of the ones that I have gotten around to writing about. 
