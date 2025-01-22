@@ -46,7 +46,7 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "hello@marshallasch.ca"
-  emails: ["hello@marshallasch.ca"] #, "maasch@rogers.com"]
+  emails: [ "hello@marshallasch.ca" ]
   #facebook: marshall.asch
   github: MarshallAsch
   gitlab: MarshallAsch
