@@ -138,6 +138,8 @@ gtag: "G-4ELS3SPMVC"
 # Google Tag Manager ID
 #gtm: ""
 
+umami_analytics: "3f337fcb-206c-4f15-9cea-a7cfbb34e316"
+
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
 

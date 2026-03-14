@@ -1,0 +1,14 @@
+
+{% if site.umami_analytics %}
+<!-- Cloudflare Web Analytics -->
+<script defer
+    src='https://static.cloudflareinsights.com/beacon.min.js'
+    data-cf-beacon='{"token": "{{ site.cloudflare_analytics}}"}'>
+</script>
+
+<script defer
+  src="https://analytics.marshallasch.ca/script.js"
+  data-website-id="{{ site.umami_analytics }}">
+</script>
+<!-- End Cloudflare Web Analytics -->
+{% endif %}
