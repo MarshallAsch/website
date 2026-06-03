@@ -6,7 +6,7 @@ subtitle: Who I am, and what I have on my corner of the Internet
 
 My name is Marshall Asch (which you may have already guessed).
 
-I have recently successfully defended my [Master’s Thesis] at the [University of Guelph].
+I successfully defended my [Master’s Thesis] at the [University of Guelph].
 My primary research focus has been on Data storage in Mobile ad hoc Networks.
 
 Throughout my Masters I worked in [Dr. Dan Gillis] on a project to help close the digital divide in Northern Canada and to help monitor the environment and health of individuals in an Inuit community in Rigolet, Labrador.
@@ -22,12 +22,16 @@ Like my work? Making a [small donation] to help pay for the domain name that the
 I really do love computers and anything that can be connected to the Internet.
 I think its amazing that we can tell computers to do something, and they will do exactly what we tell them (although sometimes we don't tell them what we think we did).
 
-Last year I acquired a 3D printer and have been attempting, and succeeding, at create my own smart home monitoring devices using [ESPHome](there will be a new project post about this soon hopefully).
+A while back I acquired a 3D printer and have been attempting, and succeeding, at creating my own smart home monitoring devices using [ESPHome] (there will be a new project post about this soon hopefully).
 
-Outside of computers, I love dogs especially the two border collies that live with me, making and eating food (mostly the eating part), and nearly any hardware project.
-In the summer I love being able to go outside and go Kayaking, climbing, and scuba diving.
-I am currently working on my Nitrox and Advanced Open Water Certifications. 
+Outside of computers, I love dogs especially my German shepherd, making and eating food (mostly the eating part), and nearly any hardware project.
+I love being able to get outside to go scuba diving, and it has long since stopped being a summer-only thing for me, I have fallen pretty hard for the cold, fresh water diving we have an abundance of here in Ontario.
+Since I started I have picked up my Advanced Open Water and Nitrox certifications, and more recently my TDI decompression procedures cert, which has opened the door to some really fun technical diving.
+You can read more about how I got hooked in my [scuba post]({% post_url 2025-01-22-scuba %}).
 And yes I know computer scientists and the outdoors are traditionally mortal enemies.
+
+That love of diving has even started bleeding into my software projects.
+I built [Fill Station]({% post_url 2026-06-03-fill-station %}), a tool for tracking gas fills and cylinder maintenance at a dive shop, and [Dive-Tec]({% post_url 2026-06-03-dive-tec %}), a multi-tenant platform for running dive shops.
 
 
 For as long as I can remember I have loved doing things with my hands and making something useful.
@@ -64,7 +68,7 @@ By the time I started my Masters in 2019 I was hooked, I started messing around 
 I have gradually been scaling that up and expanding into various cloud providers to try out new things and play with the cool toys that they have to offer. 
 After all who gets into tech without wanting to play with all the cool toys??
 
-Now that I have finished my Master’s degree, and sworn off further grad studies (Sorry Dan no PhD for me, not yet anyway), I am happily loving my role as a DevOps engineer.
+Now that I have finished my Master’s degree, and sworn off further grad studies (Sorry Dan no PhD for me, not yet anyway), I am happily loving my role as a DevOps engineer at [Plex].
 I am super excited to be continuing working in the field that I love, and I'm looking forward to seeing where the road takes me and what else I will get to learn as I go. 
 
 
@@ -77,3 +81,4 @@ I am super excited to be continuing working in the field that I love, and I'm lo
 [eNuk project]: https://enuk.ca/
 [SOCIS]: https://socis.ca/
 [ESPHome]: https://esphome.io/
+[Plex]: https://www.plex.tv/
